@@ -1,0 +1,6 @@
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.exe.config
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.exe
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\bin\Debug\PrimesCalculator.pdb
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.exe
+C:\projects\קורס .net\14\PrimesCalculator\PrimesCalculator\obj\Debug\PrimesCalculator.pdb

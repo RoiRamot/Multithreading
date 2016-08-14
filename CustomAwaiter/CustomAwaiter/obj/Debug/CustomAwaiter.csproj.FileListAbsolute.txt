@@ -1,0 +1,6 @@
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\bin\Debug\CustomAwaiter.exe.config
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\bin\Debug\CustomAwaiter.exe
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\bin\Debug\CustomAwaiter.pdb
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\obj\Debug\CustomAwaiter.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\obj\Debug\CustomAwaiter.exe
+C:\projects\קורס .net\14\CustomAwaiter\CustomAwaiter\obj\Debug\CustomAwaiter.pdb

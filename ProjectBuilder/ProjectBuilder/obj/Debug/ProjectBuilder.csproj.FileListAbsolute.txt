@@ -1,0 +1,6 @@
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe.config
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.exe
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\bin\Debug\ProjectBuilder.pdb
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.exe
+C:\projects\קורס .net\14\ProjectBuilder\ProjectBuilder\obj\Debug\ProjectBuilder.pdb
